@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title class="translatable" data-key="coding-pageTitle">Coding</title>
+    <link rel="stylesheet" href="css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="myCss/main.css">
+    <link rel="stylesheet" href="myCss/coding.css">
+
+    <script src="translator.js"></script>
+</head>
+<body>
+
+<header class="row" style="margin-top: 20px">
+
+    <div class="col-1">
+        <label for="languageDropdown"></label>
+        <select id="languageDropdown" onchange="changeLanguage()">
+            <option value="en">English</option>
+            <option value="sk">Slovak</option>
+            <option value="esp"> Spanish</option>
+            <option value="ger"> German</option>
+        </select>
+    </div>
+
+    <div class="col-6 row" style="">
+        <p id="title" class="translatable" data-key="coding-headerTitle">
+            <b> Ján Rajňák </b>
+        </p>
+    </div>
+
+    <nav class="col-5 row" style="margin-bottom: 16px">
+        <div class="col-2"></div>
+        <a class="col-2 translatable" data-key="coding-homeLink" href="index.html"> <b> Home </b> </a>
+        <a class="col-2 translatable" data-key="coding-aboutLink" href="about.html"> <b> About </b> </a>
+        <a class="col-2 active translatable" data-key="coding-codingLink" href="coding.html"> <b> Coding </b> </a>
+        <a class="col-2 translatable" data-key="coding-hobbiesLink" href="hobbies.html"> <b> Hobbies </b> </a>
+        <a class="col-2 translatable" data-key="coding-contactLink" href="contact.html"> <b> Contact </b> </a>
+    </nav>
+</header>
+
+<div class="mainContent col-12 row">
+
+    <div class="col-8">
+    </div>
+
+    <nav class="col-3 row" id="codingNav">
+        <a class="col-4 active translatable" data-key="coding-homeLink" href="coding.html"> Home </a>
+        <a class="col-4 translatable" data-key="coding-code1Link" href="coding-pages/coding-code1.html"> Code 1 </a>
+        <a class="col-4 translatable" data-key="coding-code2Link" href="coding-pages/coding-code2.html"> Code 2 </a>
+    </nav>
+
+    <h1 style="margin-top: -6px; color: #151B25"><span class="translatable" data-key="coding-title"> Coding </span></h1>
+
+    <div class="col-4">
+
+        <a href="IMGs/coding/python-snake.jpeg">
+            <img src="IMGs/coding/python-snake.jpeg" height="auto" width="50%" alt="python" class="photo" style="margin-top: -50px" data-key="coding-pythonImage">
+        </a>
+
+        <a href="IMGs/coding/c-programming.png">
+            <img src="IMGs/coding/c-programming.png" height="auto" width="50%" alt="c-programming" class="photo" style="margin-top: 150px" data-key="coding-cProgrammingImage">
+        </a>
+
+    </div>
+
+    <div class="col-4">
+        <p id="codingText" class="translatable" data-key="coding-text">
+            I’ve been coding for several years now, with my favorite and most used coding language being Java. However, I also work in Python, C (I'm planning to learn C++ for Linux additions), and I kind of am a web developer, but only frontend. I also make some apps for android devices, for example, I made my own calculator, alphabetical sorter, an app that makes ASCII art and much more. I even host a website for a chorus, which my mom leads. You can check it out on www.stalegria.sk. I don't really use GitHub, but I have some of the many codes I made here, in the sub-pages on this page. Go and try them.
+        </p>
+    </div>
+
+    <div class="col-4">
+
+        <a href="IMGs/coding/Linux.jpeg">
+            <img src="IMGs/coding/Linux.jpeg" height="auto" width="50%" alt="Linux" class="photo" style="margin-top: 50px" data-key="coding-linuxImage">
+        </a>
+
+        <a href="IMGs/coding/ASCIItable.jpeg">
+            <img src="IMGs/coding/ASCIItable.jpeg" height="auto" width="50%" alt="ASCII" class="photo" style="margin-top: 150px" data-key="coding-asciiImage">
+        </a>
+
+    </div>
+
+</div>
+
+</body>
+</html>

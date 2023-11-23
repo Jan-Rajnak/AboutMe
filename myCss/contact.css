@@ -1,0 +1,19 @@
+#contactInfo {
+    margin-top: 200px;
+    font-size: 30px;
+    color: #151B25;
+}
+
+#contactInfo2 {
+    margin-top: 20px;
+    font-size: 30px;
+    color: #151B25;
+}
+
+#contactInfo a {
+    text-decoration: none;
+}
+
+#contactInfo2 a {
+    text-decoration: none;
+}

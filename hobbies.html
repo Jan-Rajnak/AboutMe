@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title class="translatable" data-key="hobbies-pageTitle">Hobbies</title>
+    <link rel="stylesheet" href="css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="myCss/main.css">
+    <link rel="stylesheet" href="myCss/hobbies.css">
+
+    <script src="translator.js"></script>
+</head>
+<body>
+
+<header class="row" style="margin-top: 20px">
+
+    <div class="col-1">
+        <label for="languageDropdown"></label>
+        <select id="languageDropdown" onchange="changeLanguage()">
+            <option value="en">English</option>
+            <option value="sk">Slovak</option>
+            <option value="esp"> Spanish</option>
+            <option value="ger"> German</option>
+        </select>
+    </div>
+
+    <div class="col-6 row" style="">
+        <p id="title" class="translatable" data-key="hobbies-headerTitle">
+            <b> Ján Rajňák </b>
+        </p>
+    </div>
+
+    <nav class="col-5 row" style="margin-bottom: 16px">
+        <div class="col-2"></div>
+        <a class="col-2 translatable" data-key="hobbies-homeLink" href="index.html"> <b> Home </b> </a>
+        <a class="col-2 translatable" data-key="hobbies-aboutLink" href="about.html"> <b> About </b> </a>
+        <a class="col-2 translatable" data-key="hobbies-codingLink" href="coding.html"> <b> Coding </b> </a>
+        <a class="col-2 active translatable" data-key="hobbies-hobbiesLink" href="hobbies.html"> <b> Hobbies </b> </a>
+        <a class="col-2 translatable" data-key="hobbies-contactLink" href="contact.html"> <b> Contact </b> </a>
+    </nav>
+
+</header>
+
+<div class="mainContent col-12 row">
+
+    <h1 style="margin-top: 50px; color: #151B25" class="translatable" data-key="hobbies-title"> Hobbies </h1>
+
+    <div class="col-4">
+
+        <a href="IMGs/hobbies/chess.jpeg">
+            <img height="auto" width="50%" class="photo" src="IMGs/hobbies/chess.jpeg" alt="chess"
+                 style="margin-top: -55px" data-key="hobbies-chessImage">
+        </a>
+
+        <a href="IMGs/hobbies/creeper.jpeg">
+            <img height="auto" width="50%" class="photo" src="IMGs/hobbies/creeper.jpeg" alt="creeper image" data-key="hobbies-creeperImage">
+        </a>
+
+    </div>
+
+    <p class="col-4 translatable" id="hobbiesText" data-key="hobbies-content">
+        In the mix of things I love, there's the
+        intense game of Chess, where every move feels like a dance on a checkered stage. Then, I switch gears to coding
+        – it's like painting with lines of code, turning bugs into mischievous sidekicks in my digital adventures. After
+        that, I dive into the world of Maths and Physics, unlocking the universe's secrets one equation at a time. And
+        when I need a break, Minecraft is my go-to, where I mine, build, and let my creativity run wild in blocky
+        landscapes.
+    </p>
+
+    <div class="col-4">
+        <a href="IMGs/hobbies/ILoveMaths.jpeg">
+            <img height="auto" width="50%" class="photo" src="IMGs/hobbies/ILoveMaths.jpeg" alt="I love Maths"
+                 style="margin-top: -55px" data-key="hobbies-mathsImage">
+        </a>
+
+        <a href="IMGs/hobbies/physics.jpeg">
+            <img height="auto" width="50%" class="photo" src="IMGs/hobbies/physics.jpeg" alt="physics" data-key="hobbies-physicsImage">
+        </a>
+
+    </div>
+
+</div>
+
+</body>
+</html>

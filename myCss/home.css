@@ -1,0 +1,9 @@
+.mainContent {
+    text-align: center;
+}
+
+#homeText {
+    margin-top: 200px;
+    font-size: 24px;
+    color: #151B25;
+}

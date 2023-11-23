@@ -1,0 +1,82 @@
+{
+  "home-pageTitle": "Domov",
+  "home-headerTitle": "Ján Rajňák",
+  "home-homeLink": "Domov",
+  "home-aboutLink": "O mne",
+  "home-codingLink": "Coding",
+  "home-hobbiesLink": "Záľuby",
+  "home-contactLink": "Kontakt",
+  "home-mainTitle": "Domov",
+  "home-janMemeAlt": "JAN meme",
+  "home-notHappyJanAlt2": "not happy Jan meme",
+  "home-homeText": "Vitajte na mojej webstránke, ktorá je, neironicky, o mne. Môžte o mne zistiť viac na podstránke o mne, kde píšem o svojich záľubách a veciach ktoré rád robím.",
+  "home-janMemeAlt2": "sure Jan meme",
+  "home-notHappyJanAlt": "not happy Jan meme",
+
+
+
+  "about-pageTitle": "O mne",
+  "about-headerTitle": "Ján Rajňák",
+  "about-homeLink": "Domov",
+  "about-aboutLink": "O mne",
+  "about-codingLink": "Coding",
+  "about-hobbiesLink": "Záľuby",
+  "about-contactLink": "Kontakt",
+  "about-gamcaImage": "image of my school",
+  "about-gamcaLogo": "image of my school logo",
+  "about-aboutTitle": "O mne",
+  "about-aboutMeText": "Volám sa Ján, mám 13 rokov a študujem na Gamči (www.gamca.sk). Mám veľmi rád čísla - či už ide o počítanie matiky a fyziky, alebo prepočítavanie šachových pozícií. Keď práve niečo nepočítam, nájdete ma stavať zaujímavé svety v Minecrafte. Spomenul som už že programujem? Jop, je to tak, už mám na konte zopár stránok (napr. www.stalegria.sk). Výlety s priateľmi sú časy kde nachádzam najväčšie dobrodružstvo - veď život je príliš krátky aby sme si to neužili.",
+  "about-scienceImage": "science illustration image",
+  "about-javaLogo": "java logo",
+
+
+
+  "coding-pageTitle": "Coding",
+  "coding-headerTitle": "Ján Rajňák",
+  "coding-homeLink": "Domov",
+  "coding-aboutLink": "O mne",
+  "coding-codingLink": "Coding",
+  "coding-hobbiesLink": "Záľuby",
+  "coding-contactLink": "Kontakt",
+  "coding-code1Link": "Kód 1",
+  "coding-code2Link": "Kód 2",
+  "coding-title": "Coding",
+  "coding-text": "Programovaniu sa venujem už niekoľko rokov, pričom mojím obľúbeným a najpoužívanejším programovacím jazykom je Java. Pracujem však aj v Pythone, C (plánujem sa naučiť C++ pre doplnky pre Linux) a som tak trochu webový vývojár, ale len frontendový. Tvorím aj niektoré aplikácie pre zariadenia s Androidom, napríklad som vytvoril vlastnú kalkulačku, zoraďovač podľa abecedy, aplikáciu, ktorá vytvára ASCII art a mnoho ďalšieho. Dokonca spravujem webovú stránku pre spevácky zbor, ktorý vedie moja mama. Môžete si ju pozrieť na stránke www.stalegria.sk. GitHub veľmi nepoužívam, ale niektoré z mnohých kódov, ktoré som vytvoril, mám tu, v podstránkach na tejto stránke. Vyskúšajte ich.",
+  "coding-pythonImage": "python",
+  "coding-cProgrammingImage": "c-programming",
+  "coding-linuxImage": "Linux",
+  "coding-asciiImage": "ASCII",
+
+
+  "hobbies-pageTitle": "Záľuby",
+  "hobbies-headerTitle": "Ján Rajňák",
+  "hobbies-homeLink": "Domov",
+  "hobbies-aboutLink": "O mne",
+  "hobbies-codingLink": "Coding",
+  "hobbies-hobbiesLink": "Záľuby",
+  "hobbies-contactLink": "Kontakt",
+  "hobbies-title": "Záľuby",
+  "hobbies-chessImage": "chess",
+  "hobbies-creeperImage": "creeper",
+  "hobbies-content": "Medzi vecami, ktoré mám rád, je\n        intenzívna hra šachu, kde každý ťah vyzerá ako tanec na šachovnici. Potom prepnem na kódovanie\n        - je to ako maľovanie riadkami kódu. Po\n        tom sa ponorím do sveta matematiky a fyziky a odhaľujem tajomstvá vesmíru jednu rovnicu za druhou. A\n        keď si potrebujem oddýchnuť, zapnem si Minecraft, kde ťažím, staviam a nechávam svoju kreativitu voľne plynúť v blokových\n        krajinách.",
+  "hobbies-mathsImage": "I love Maths",
+  "hobbies-physicsImage": "physics",
+
+
+
+  "contact-pageTitle": "Kontakt",
+  "contact-headerTitle": "Ján Rajňák",
+  "contact-homeLink": "Domov",
+  "contact-aboutLink": "O mne",
+  "contact-codingLink": "Coding",
+  "contact-hobbiesLink": "Záľuby",
+  "contact-contactLink": "Kontakt",
+  "contact-title": "Kontakt",
+  "contact-image1": "",
+  "contact-image2": "",
+  "contact-info1": "mail: janrajnak333@gmail.com",
+  "contact-info2": "tel.č.: +421 948 211 192",
+  "contact-image3": "",
+  "contact-image4": ""
+
+}

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title class="translatable" data-key="contact-pageTitle">Contact</title>
+    <link rel="stylesheet" href="css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="myCss/main.css">
+    <link rel="stylesheet" href="myCss/contact.css">
+
+    <script src="translator.js"></script>
+</head>
+<body>
+
+<header class="row" style="margin-top: 20px">
+
+    <div class="col-1">
+        <label for="languageDropdown"></label>
+        <select id="languageDropdown" onchange="changeLanguage()">
+            <option value="en">English</option>
+            <option value="sk">Slovak</option>
+            <option value="esp"> Spanish</option>
+            <option value="ger"> German</option>
+        </select>
+    </div>
+
+    <div class="col-6 row" style="">
+        <p id="title" class="">
+            <b class="translatable" data-key="contact-headerTitle"> Ján Rajňák </b>
+        </p>
+    </div>
+
+    <nav class="col-5 row" style="margin-bottom: 16px">
+        <div class="col-2"></div>
+        <a class="col-2 translatable" data-key="contact-homeLink" href="index.html"> <b> Home </b> </a>
+        <a class="col-2 translatable" data-key="contact-aboutLink" href="about.html"> <b> About </b> </a>
+        <a class="col-2 translatable" data-key="contact-codingLink" href="coding.html"> <b> Coding </b> </a>
+        <a class="col-2 translatable" data-key="contact-hobbiesLink" href="hobbies.html"> <b> Hobbies </b> </a>
+        <a class="col-2 active translatable" data-key="contact-contactLink" href="contact.html"> <b> Contact </b> </a>
+    </nav>
+
+    <h1 style="margin-top: 50px; color: #151B25; text-align: center" class="translatable" data-key="contact-title"> Contact </h1>
+
+    <div class="col-4">
+        <a href="IMGs/contact/contact1.jpeg">
+            <img src="IMGs/contact/contact1.jpeg" height="auto" width="50%" alt="" class="photo" style="margin-top: 0px" data-key="contact-image1">
+        </a>
+
+        <a href="IMGs/contact/contact2.jpeg">
+            <img src="IMGs/contact/contact2.jpeg" height="auto" width="50%" alt="" class="photo" style="margin-top: 100px" data-key="contact-image2">
+        </a>
+    </div>
+
+    <div class="col-4">
+        <p id="contactInfo" class="translatable" data-key="contact-info">
+            mail: janrajnak333@gmail.com
+            </p>
+        <p id="contactInfo2" class="translatable" data-key="contact-info2">
+            phone: +421 948 211 192
+        </p>
+    </div>
+
+    <div class="col-4">
+        <a href="IMGs/contact/contact3.jpeg">
+            <img src="IMGs/contact/contact3.jpeg" height="auto" width="50%" alt="" class="photo" style="margin-top: 0px" data-key="contact-image3">
+        </a>
+
+        <a href="IMGs/contact/contact4.jpeg">
+            <img src="IMGs/contact/contact4.jpeg" height="auto" width="50%" alt="" class="photo" style="margin-top: 100px" data-key="contact-image4">
+        </a>
+    </div>
+
+</header>
+
+</body>
+</html>

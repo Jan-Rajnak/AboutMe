@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title class="translatable" data-key="about-pageTitle">About Me</title>
+    <link rel="stylesheet" href="css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="myCss/main.css">
+    <link rel="stylesheet" href="myCss/about.css">
+
+    <script src="translator.js"></script>
+</head>
+<body>
+
+<header class="row" style="margin-top: 20px">
+
+    <div class="col-1">
+        <label for="languageDropdown"></label>
+        <select id="languageDropdown" onchange="changeLanguage()">
+            <option value="en">English</option>
+            <option value="sk">Slovak</option>
+            <option value="esp"> Spanish</option>
+            <option value="ger"> German</option>
+        </select>
+    </div>
+
+    <div class="col-6 row" style="">
+        <p id="title" class="translatable" data-key="about-headerTitle" style="">
+            <b> Ján Rajňák </b>
+        </p>
+    </div>
+
+    <nav class="col-5 row" style="margin-bottom: 16px">
+        <div class="col-2"></div>
+        <a class="col-2 translatable" data-key="about-homeLink" href="index.html"> <b> Home </b></a>
+        <a class="col-2 active translatable" data-key="about-aboutLink" href="about.html"> <b> About </b></a>
+        <a class="col-2 translatable" data-key="about-codingLink" href="coding.html"> <b> Coding </b></a>
+        <a class="col-2 translatable" data-key="about-hobbiesLink" href="hobbies.html"> <b> IDK </b></a>
+        <a class="col-2 translatable" data-key="about-contactLink" href="contact.html"> <b> Contact </b></a>
+    </nav>
+</header>
+
+<div class="mainContent row col-12">
+
+    <div class="col-4" id="photos1">
+
+        <a href="IMGs/aboutMe/gamca.jpg">
+            <img src="IMGs/aboutMe/gamca.jpg" height="auto" width="50%" alt="image of my school" class="photo" data-key="about-gamcaImage">
+        </a>
+
+        <a href="IMGs/aboutMe/gamcaLogo.jpeg">
+            <img src="IMGs/aboutMe/gamcaLogo.jpeg" height="auto" width="50%" alt="image of my school logo" class="photo" data-key="about-gamcaLogo">
+        </a>
+    </div>
+
+    <div class="col-4 translatable" data-key="about-content" id="content">
+
+        <h1 style="margin-top: 50px; color: #151B25"><span class="translatable" data-key="about-aboutTitle">About Me</span></h1>
+
+        <p class="translatable" data-key="about-aboutMeText" id="aboutMeText">
+            My name is John, I am a 13-year-old student at Gamča (www.gamca.sk). I'm all about numbers—whether it's diving into math and physics or outwitting opponents in chess. When I'm not crunching numbers, you'll catch me building epic worlds in Minecraft. Oh, and did I mention I'm into coding? Yep, I’ve already made some cool websites (www.stalegria.sk). Hanging out with friends is where I find the best adventures — because life's too short not to enjoy it!
+        </p>
+    </div>
+
+    <div class="col-4" id="photos2">
+
+        <a href="IMGs/aboutMe/scinece.png">
+            <img src="IMGs/aboutMe/scinece.png" height="auto" width="50%" alt="science illustration image" class="photo" data-key="about-scienceImage">
+        </a>
+
+        <a href="IMGs/aboutMe/java.jpeg">
+            <img src="IMGs/aboutMe/java.jpeg" height="auto" width="50%" alt="java logo" class="photo" style="margin-top: 100px" data-key="about-javaLogo">
+        </a>
+    </div>
+</div>
+
+</body>
+</html>

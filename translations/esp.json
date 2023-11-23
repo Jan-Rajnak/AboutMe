@@ -1,0 +1,83 @@
+{
+  "home-pageTitle": "Inicio",
+  "home-headerTitle": "Ján Rajňák",
+  "home-homeLink": "Inicio",
+  "home-aboutLink": "Sobre mí",
+  "home-codingLink": "Coding",
+  "home-hobbiesLink": "Aficiones",
+  "home-contactLink": "Contacto",
+  "home-mainTitle": "Inicio",
+  "home-janMemeAlt": "JAN meme",
+  "home-notHappyJanAlt2": "not happy Jan meme",
+  "home-homeText": "Bienvenido a mi sitio web, que sin ironía trata sobre mí. Puedes saber más sobre mí en la sección sobre mí, donde escribo sobre mis aficiones y lo que me gusta hacer.",
+  "home-aboutLinkText": "about me",
+  "home-janMemeAlt2": "sure Jan meme",
+  "home-notHappyJanAlt": "not happy Jan meme",
+
+
+
+  "about-pageTitle": "Sobre mí",
+  "about-headerTitle": "Ján Rajňák",
+  "about-homeLink": "Inicio",
+  "about-aboutLink": "Sobre mí",
+  "about-codingLink": "Coding",
+  "about-hobbiesLink": "Aficiones",
+  "about-contactLink": "Contacto",
+  "about-gamcaImage": "image of my school",
+  "about-gamcaLogo": "image of my school logo",
+  "about-aboutTitle": "Sobre mí",
+  "about-aboutMeText": "Me llamo John, tengo 13 años y estudio en Gamča (www.gamca.sk). Lo mío son los números, ya sea sumergiéndome en las matemáticas y la física o burlando a mis oponentes en el ajedrez. Cuando no estoy haciendo números, me pillas construyendo mundos épicos en Minecraft. Ah, ¿y he mencionado que me gusta programar? Sí, ya he creado algunos sitios web geniales (www.stalegria.sk). Salir con los amigos es donde encuentro las mejores aventuras, ¡porque la vida es demasiado corta para no disfrutarla!",
+  "about-scienceImage": "science illustration image",
+  "about-javaLogo": "java logo",
+
+
+
+  "coding-pageTitle": "Coding",
+  "coding-headerTitle": "Ján Rajňák",
+  "coding-homeLink": "Inicio",
+  "coding-aboutLink": "Sobre mí",
+  "coding-codingLink": "Coding",
+  "coding-hobbiesLink": "Hobbies",
+  "coding-contactLink": "Contacto",
+  "coding-code1Link": "Code 1",
+  "coding-code2Link": "Code 2",
+  "coding-title": "Coding",
+  "coding-text": "He estado codificando desde hace varios años, con mi lenguaje de codificación favorito y más utilizado es Java. Sin embargo, también trabajo en Python, C (estoy planeando aprender C ++ para las adiciones de Linux), y yo soy una especie de desarrollador web, pero sólo frontend. También hago algunas aplicaciones para dispositivos Android, por ejemplo, hice mi propia calculadora, clasificador alfabético, una aplicación que hace arte ASCII y mucho más. Incluso alojo un sitio web para un coro, que dirige mi madre. Puedes verlo en www.stalegria.sk. Realmente no uso GitHub, pero tengo algunos de los muchos códigos que hice aquí, en las subpáginas de esta página. Ve y pruébalos.",
+  "coding-pythonImage": "python",
+  "coding-cProgrammingImage": "c-programming",
+  "coding-linuxImage": "Linux",
+  "coding-asciiImage": "ASCII",
+
+
+  "hobbies-pageTitle": "Aficiones",
+  "hobbies-headerTitle": "Ján Rajňák",
+  "hobbies-homeLink": "Inicio",
+  "hobbies-aboutLink": "Sobre mí",
+  "hobbies-codingLink": "Coding",
+  "hobbies-hobbiesLink": "Aficiones",
+  "hobbies-contactLink": "Contacto",
+  "hobbies-title": "Aficiones",
+  "hobbies-chessImage": "chess",
+  "hobbies-creeperImage": "creeper",
+  "hobbies-content": "En la mezcla de cosas que me encantan, está el\n        intenso juego del ajedrez, donde cada movimiento parece un baile sobre un escenario de cuadros. Luego cambio a la codificación\n        - es como pintar con líneas de código, convirtiendo a los bichos en traviesos compañeros de mis aventuras digitales. Después de\n        Después, me sumerjo en el mundo de las matemáticas y la física, desvelando los secretos del universo ecuación a ecuación. Y en\n        cuando necesito un descanso, Minecraft es lo mío, donde mino, construyo y doy rienda suelta a mi creatividad en paisajes de bloques.\n        de bloques.",
+  "hobbies-mathsImage": "I love Maths",
+  "hobbies-physicsImage": "physics",
+
+
+
+  "contact-pageTitle": "Contacto",
+  "contact-headerTitle": "Ján Rajňák",
+  "contact-homeLink": "Inicio",
+  "contact-aboutLink": "About",
+  "contact-codingLink": "Coding",
+  "contact-hobbiesLink": "Aficiones",
+  "contact-contactLink": "Contacto",
+  "contact-title": "Contacto",
+  "contact-image1": "",
+  "contact-image2": "",
+  "contact-info": "correo electrónico: janrajnak333@gmail.com",
+  "contact-info2": "teléfono: +421 948 211 192",
+  "contact-image3": "",
+  "contact-image4": ""
+
+}

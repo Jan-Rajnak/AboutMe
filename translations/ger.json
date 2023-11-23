@@ -1,0 +1,83 @@
+{
+  "home-pageTitle": "Startseite",
+  "home-headerTitle": "Ján Rajňák",
+  "home-homeLink": "Startseite",
+  "home-aboutLink": "Über mich",
+  "home-codingLink": "Coding",
+  "home-hobbiesLink": "Hobbys",
+  "home-contactLink": "Kontakt",
+  "home-mainTitle": "Startseite",
+  "home-janMemeAlt": "JAN meme",
+  "home-notHappyJanAlt2": "not happy Jan meme",
+  "home-homeText": "Willkommen auf meiner WebSite, auf der es unironisch\n        über mich ist. Du kannst mehr über mich erfahren\n        in der Rubrik \"Über mich\", wo ich über meine Hobbys und meine Freizeitbeschäftigungen schreibe.",
+  "home-aboutLinkText": "about me",
+  "home-janMemeAlt2": "sure Jan meme",
+  "home-notHappyJanAlt": "not happy Jan meme",
+
+
+
+  "about-pageTitle": "Über mich",
+  "about-headerTitle": "Ján Rajňák",
+  "about-homeLink": "Startseite",
+  "about-aboutLink": "Über mich",
+  "about-codingLink": "Coding",
+  "about-hobbiesLink": "Hobbys",
+  "about-contactLink": "Kontakt",
+  "about-gamcaImage": "image of my school",
+  "about-gamcaLogo": "image of my school logo",
+  "about-aboutTitle": "About Me",
+  "about-aboutMeText": "Mein Name ist John, ich bin ein 13-jähriger Schüler in Gamča (www.gamca.sk). Bei mir dreht sich alles um Zahlen - egal, ob ich mich in Mathe und Physik vertiefe oder meine Gegner beim Schach überliste. Wenn ich nicht gerade mit Zahlen rechne, baue ich epische Welten in Minecraft. Oh, und habe ich schon erwähnt, dass ich gerne programmiere? Ja, ich habe schon einige coole Websites erstellt (www.stalegria.sk). Die besten Abenteuer erlebe ich mit Freunden - denn das Leben ist zu kurz, um es nicht zu genießen!",
+  "about-scienceImage": "science illustration image",
+  "about-javaLogo": "java logo",
+
+
+
+  "coding-pageTitle": "Coding",
+  "coding-headerTitle": "Ján Rajňák",
+  "coding-homeLink": "Startseite",
+  "coding-aboutLink": "Über mich",
+  "coding-codingLink": "Coding",
+  "coding-hobbiesLink": "Hobbys",
+  "coding-contactLink": "Kontakt",
+  "coding-code1Link": "Code 1",
+  "coding-code2Link": "Code 2",
+  "coding-title": "Coding",
+  "coding-text": "Ich programmiere schon seit einigen Jahren, wobei Java meine bevorzugte und am häufigsten verwendete Programmiersprache ist. Allerdings arbeite ich auch in Python, C (ich plane, C++ für Linux-Ergänzungen zu lernen), und ich bin so etwas wie ein Webentwickler, aber nur für das Frontend. Ich mache auch einige Apps für Android-Geräte, z. B. habe ich meinen eigenen Taschenrechner, einen alphabetischen Sortierer, eine App, die ASCII-Kunst erstellt und vieles mehr. Ich betreibe sogar eine Website für einen Chor, den meine Mutter leitet. Du kannst sie dir auf www.stalegria.sk ansehen. Ich benutze GitHub nicht wirklich, aber ich habe einige der vielen Codes, die ich hier gemacht habe, in den Unterseiten auf dieser Seite. Probieren Sie sie aus.",
+  "coding-pythonImage": "python",
+  "coding-cProgrammingImage": "c-programming",
+  "coding-linuxImage": "Linux",
+  "coding-asciiImage": "ASCII",
+
+
+  "hobbies-pageTitle": "Hobbys",
+  "hobbies-headerTitle": "Ján Rajňák",
+  "hobbies-homeLink": "Startseite",
+  "hobbies-aboutLink": "Über mich",
+  "hobbies-codingLink": "Coding",
+  "hobbies-hobbiesLink": "Hobbys",
+  "hobbies-contactLink": "Kontakt",
+  "hobbies-title": "Hobbys",
+  "hobbies-chessImage": "chess",
+  "hobbies-creeperImage": "creeper",
+  "hobbies-content": "Zu den Dingen, die ich liebe, gehört auch das\n        intensive Schachspiel, bei dem sich jeder Zug wie ein Tanz auf einer Schachbrettbühne anfühlt. Dann schalte ich einen Gang höher und programmiere\n        - Es ist, als würde ich mit Codezeilen malen und Bugs in meinen digitalen Abenteuern in schelmische Handlanger verwandeln. Nach\n        tauche ich in die Welt der Mathematik und Physik ein und entschlüssele die Geheimnisse des Universums, eine Gleichung nach der anderen. Und\n        Wenn ich eine Pause brauche, ist Minecraft meine erste Wahl, wo ich baue und meiner Kreativität in blockigen Landschaften freien Lauf lasse.",
+  "hobbies-mathsImage": "I love Maths",
+  "hobbies-physicsImage": "physics",
+
+
+
+  "contact-pageTitle": "Kontakt",
+  "contact-headerTitle": "Ján Rajňák",
+  "contact-homeLink": "Startseite",
+  "contact-aboutLink": "Über mich",
+  "contact-codingLink": "Coding",
+  "contact-hobbiesLink": "Hobbys",
+  "contact-contactLink": "Kontakt",
+  "contact-title": "Kontakt",
+  "contact-image1": "",
+  "contact-image2": "",
+  "contact-info": "mail: janrajnak333@gmail.com",
+  "contact-info2": "telefon: +421 948 211 192",
+  "contact-image3": "",
+  "contact-image4": ""
+
+}

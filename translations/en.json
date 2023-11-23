@@ -1,0 +1,83 @@
+{
+  "home-pageTitle": "Home",
+  "home-headerTitle": "Ján Rajňák",
+  "home-homeLink": "Home",
+  "home-aboutLink": "About",
+  "home-codingLink": "Coding",
+  "home-hobbiesLink": "Hobbies",
+  "home-contactLink": "Contact",
+  "home-mainTitle": "Home",
+  "home-janMemeAlt": "JAN meme",
+  "home-notHappyJanAlt2": "not happy Jan meme",
+  "home-homeText": "Welcome to my WebSite, which is unironically\n        about me. You can learn more about me\n        in the about me section, where I write about my hobbies and what I like to do.",
+  "home-aboutLinkText": "about me",
+  "home-janMemeAlt2": "sure Jan meme",
+  "home-notHappyJanAlt": "not happy Jan meme",
+
+
+
+  "about-pageTitle": "About Me",
+  "about-headerTitle": "Ján Rajňák",
+  "about-homeLink": "Home",
+  "about-aboutLink": "About",
+  "about-codingLink": "Coding",
+  "about-hobbiesLink": "Hobbies",
+  "about-contactLink": "Contact",
+  "about-gamcaImage": "image of my school",
+  "about-gamcaLogo": "image of my school logo",
+  "about-aboutTitle": "About Me",
+  "about-aboutMeText": "My name is John, I am a 13-year-old student at Gamča (www.gamca.sk). I'm all about numbers—whether it's diving into math and physics or outwitting opponents in chess. When I'm not crunching numbers, you'll catch me building epic worlds in Minecraft. Oh, and did I mention I'm into coding? Yep, I’ve already made some cool websites (www.stalegria.sk). Hanging out with friends is where I find the best adventures — because life's too short not to enjoy it!",
+  "about-scienceImage": "science illustration image",
+  "about-javaLogo": "java logo",
+
+
+
+  "coding-pageTitle": "Coding",
+  "coding-headerTitle": "Ján Rajňák",
+  "coding-homeLink": "Home",
+  "coding-aboutLink": "About",
+  "coding-codingLink": "Coding",
+  "coding-hobbiesLink": "Hobbies",
+  "coding-contactLink": "Contact",
+  "coding-code1Link": "Code 1",
+  "coding-code2Link": "Code 2",
+  "coding-title": "Coding",
+  "coding-text": "I’ve been coding for several years now, with my favorite and most used coding language being Java. However, I also work in Python, C (I'm planning to learn C++ for Linux additions), and I kind of am a web developer, but only frontend. I also make some apps for android devices, for example, I made my own calculator, alphabetical sorter, an app that makes ASCII art and much more. I even host a website for a chorus, which my mom leads. You can check it out on www.stalegria.sk. I don't really use GitHub, but I have some of the many codes I made here, in the sub-pages on this page. Go and try them.",
+  "coding-pythonImage": "python",
+  "coding-cProgrammingImage": "c-programming",
+  "coding-linuxImage": "Linux",
+  "coding-asciiImage": "ASCII",
+
+
+  "hobbies-pageTitle": "Hobbies",
+  "hobbies-headerTitle": "Ján Rajňák",
+  "hobbies-homeLink": "Home",
+  "hobbies-aboutLink": "About",
+  "hobbies-codingLink": "Coding",
+  "hobbies-hobbiesLink": "Hobbies",
+  "hobbies-contactLink": "Contact",
+  "hobbies-title": "Hobbies",
+  "hobbies-chessImage": "chess",
+  "hobbies-creeperImage": "creeper",
+  "hobbies-content": "In the mix of things I love, there's the\n        intense game of Chess, where every move feels like a dance on a checkered stage. Then, I switch gears to coding\n        – it's like painting with lines of code, turning bugs into mischievous sidekicks in my digital adventures. After\n        that, I dive into the world of Maths and Physics, unlocking the universe's secrets one equation at a time. And\n        when I need a break, Minecraft is my go-to, where I mine, build, and let my creativity run wild in blocky\n        landscapes.",
+  "hobbies-mathsImage": "I love Maths",
+  "hobbies-physicsImage": "physics",
+
+
+
+  "contact-pageTitle": "Contact",
+  "contact-headerTitle": "Ján Rajňák",
+  "contact-homeLink": "Home",
+  "contact-aboutLink": "About",
+  "contact-codingLink": "Coding",
+  "contact-hobbiesLink": "Hobbies",
+  "contact-contactLink": "Contact",
+  "contact-title": "Contact",
+  "contact-image1": "",
+  "contact-image2": "",
+  "contact-info": "mail: janrajnak333@gmail.com",
+  "contact-info2": "phone: +421 948 211 192",
+  "contact-image3": "",
+  "contact-image4": ""
+
+}
