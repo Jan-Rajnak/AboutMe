@@ -32,21 +32,25 @@ nav a {
     text-align: center;
     border: #034687 4px inset;
     margin: 0 -1.5px;
+    transition: 1;
 }
 
 nav a:hover {
     color: #034687;
     background-color: #758ebe;
+    transition: 1;
 }
 
 a.active {
     color: #151B25;
     background-color: #0565b2;
+    transition: 1;
 }
 
 nav a.active:hover {
     color: #151B25;
     background-color: #0565b2;
+    transition: 1;
 }
 
 /* Photos */
